@@ -59,7 +59,3 @@ Este projeto reforça:
 - **Polimorfismo:** lista de produtos exibindo comportamentos diferentes com o mesmo método.
 
 ---
-
-
-
-Quer que eu te mostre como adicionar **badges visuais** (Java version, status, linguagem) para dar aquele toque moderno no topo do README?
